@@ -1,7 +1,9 @@
-## 1 Requirement
+1 Requirement
+-----------
 在一些业务场景中需要拿到IM上的通信记录来做一些数据分析，例如对QQ平台中的消息进行领域分类等。
-## 2 
-**Environment & Tools：**
+ 
+2 Environment & Tools
+-----------
 
 - python 2.7
 - Ubuntu 16.04
@@ -16,6 +18,8 @@
 - elasticsearch(6.0.0) 【es的python客户端】
 - tgrocery(0.1.3)【短文本分类】
 
-## 2 Run
-	
+3 Run
+-----------
+	```
 	python2 getqqinfo.py
+    ```
