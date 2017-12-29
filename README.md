@@ -20,6 +20,6 @@
 
 3 Run
 -----------
-	```
+
 	python2 getqqinfo.py
-    ```
+
